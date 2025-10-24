@@ -1,2 +1,2 @@
-# aplicacion_monitoreo_y_gestion_post_alta_apk
-# aplicacion_monitoreo_y_gestion_post_alta_apk
+# Versión local (tu contenido)
+Aquí estaba el README que creaste localmente.
